@@ -1,7 +1,7 @@
 ---
 title: "채널 목록 조회 개선: 2N + 2번의 쿼리를 3번으로"
 date: 2026-11-07 23:00:00 +0900
-categories: ["Spring", "JPA", "Performance"]
+categories: ["Troubleshooting"]
 tags: ["spring-data-jpa", "query-optimization", "n-plus-one", "entity-graph"]
 description: "채널 목록 조회에서 반복되던 참여자와 마지막 메시지 조회를 일괄 처리하고 SQL 로그로 쿼리 수를 확인한다."
 toc: true
