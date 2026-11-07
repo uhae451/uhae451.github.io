@@ -1,6 +1,6 @@
 ---
 title: "@WebMvcTest에서 JPA Auditing 설정 오류 해결"
-date: 2026-11-08 09:00:00 +0900
+date: 2026-11-07 23:00:00 +0900
 categories: ["Spring", "Testing"]
 tags: ["spring-boot-test", "webmvctest", "jpa-auditing", "slice-test"]
 description: "@WebMvcTest 실행 중 JPA metamodel 오류가 발생한 원인과 JPA Auditing 설정을 테스트 종류별로 분리한 과정을 정리한다."
