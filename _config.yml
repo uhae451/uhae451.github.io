@@ -16,10 +16,9 @@ timezone: Asia/Seoul
 
 title: Uhae451
 
-tagline: #A text-focused Jekyll theme # it will display as the subtitle
+tagline: "Backend Development Notes"
 
 description: "uhae 개발 블로그"  # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -38,7 +37,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - # https://twitter.com/username # change to your Twitter homepage
-    - # https://github.com/username # change to your GitHub homepage
+    -  https://github.com/uhae451 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
