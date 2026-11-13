@@ -1,7 +1,7 @@
 ---
 title: "JPA 영속성 전이와 고아 객체 제거"
 date: 2026-11-07 16:00:00 +0900
-categories: [JPA, Core]
+categories: ["Courses","JPA기본"]
 tags: [jpa, cascade, orphan-removal, entity-lifecycle, hibernate]
 description: "JPA의 영속성 전이(cascade)와 고아 객체 제거(orphanRemoval)의 동작 방식, 사용 조건, 삭제 시 주의사항을 Publisher와 Book 예제로 정리한다."
 toc: true

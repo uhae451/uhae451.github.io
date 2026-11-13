@@ -1,7 +1,7 @@
 ---
 title: "JPA 상속 매핑 — JOINED, SINGLE_TABLE, TABLE_PER_CLASS와 @MappedSuperclass"
 date: 2026-11-07 16:00:00 +0900
-categories: [JPA, Core]
+categories: ["Courses","JPA기본"]
 tags: [jpa, hibernate, inheritance, mapped-superclass, orm]
 description: "JPA 상속 매핑의 세 가지 전략인 JOINED, SINGLE_TABLE, TABLE_PER_CLASS의 테이블 구조와 장단점, 선택 기준 및 @MappedSuperclass와의 차이를 정리한다."
 toc: true

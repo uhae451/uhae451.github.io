@@ -1,7 +1,7 @@
 ---
 title: "JPA 연관관계 매핑 기초 — 단방향, 양방향, 연관관계의 주인"
 date: 2026-11-07 16:00:00 +0900
-categories: [JPA, Core]
+categories: ["Courses","JPA기본"]
 tags: [jpa, hibernate, relationship-mapping, many-to-one, mappedby]
 description: "JPA 단방향·양방향 연관관계의 매핑 방법과 연관관계의 주인, 외래 키 관리, 양방향 객체 참조 동기화 시 주의사항을 Book과 Publisher 예제로 정리한다."
 toc: true

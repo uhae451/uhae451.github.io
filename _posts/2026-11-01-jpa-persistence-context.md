@@ -1,7 +1,7 @@
 ---
 title: "JPA 영속성 컨텍스트"
 date: 2026-11-01 09:00:00 +0900
-categories: ["JPA", "Core"]
+categories: ["Courses","JPA기본"]
 tags: ["jpa", "persistence-context", "dirty-checking", "flush", "first-level-cache"]
 description: "JPA 영속성 컨텍스트의 엔티티 상태, 1차 캐시, 쓰기 지연, 변경 감지, flush와 준영속 동작을 테스트 코드로 정리한다."
 toc: true

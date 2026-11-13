@@ -1,7 +1,7 @@
 ---
 title: "JPA 연관관계 종류별 매핑 — 다대일, 일대다, 일대일, 다대다"
 date: 2026-11-07 16:00:00 +0900
-categories: [JPA, Core]
+categories: ["Courses","JPA기본"]
 tags: [jpa, hibernate, many-to-one, one-to-many, one-to-one, many-to-many]
 description: "JPA의 다대일, 일대다, 일대일, 다대다 연관관계 매핑 방식과 외래 키 관리, 연관관계의 주인, 연결 엔티티를 사용하는 기준을 정리한다."
 toc: true
